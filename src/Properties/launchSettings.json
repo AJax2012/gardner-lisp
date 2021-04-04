@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LispParser": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\var\\proj\\Availity\\LISP\\testLisp.lisp"
+    }
+  }
+}
